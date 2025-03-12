@@ -1,0 +1,16 @@
+
+@import "tailwindcss";
+
+.error{
+    color: red;
+    font-size: 30px;
+}
+
+.user{
+    color: green;
+    font-size: 60px;
+}
+.admin{
+    color: blue;
+    font-size: 40px;
+}
