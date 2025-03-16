@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 
+//local strorage updatates
 const App = () => {
   const [userStatus, setuserStatus] = useState('')
   const [email, setEmail] = useState('')
